@@ -15,6 +15,14 @@ This project contains a set of simple HTML files that **display  calendars for e
 - `2.html` – Calendar for February 2026.
 - `3.html` – Calendar for March 2026.
 - `4.html` – Calendar for April 2026.
+- `5.html` – Calendar for May 2026.
+- `6.html` – Calendar for June 2026.
+- `7.html` – Calendar for July 2026.
+- `8.html` – Calendar for August 2026.
+- `9.html` – Calendar for September 2026.
+- `10.html` – Calendar for October 2026.
+- `11.html` – Calendar for November 2026.
+- `12.html` – Calendar for December 2026.
 
 ## Features
 - Each HTML file displays one month as a table.  
