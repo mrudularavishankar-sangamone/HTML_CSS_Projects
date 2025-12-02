@@ -32,3 +32,9 @@ This project contains a set of simple HTML files that **display  calendars for e
 ## How to Use
 1. Right-click any of the above HTML files and select **Open with Live Server**.  
 2. The calendar will appear in your default browser.
+
+
+## Notes
+1. Why do we need UTF-8 ? (Slide)
+   -
+2. 
