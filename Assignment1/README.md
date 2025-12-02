@@ -39,3 +39,4 @@ This project contains a set of simple HTML files that **display  calendars for e
    -
 2. Create a ppt on git for 1st timers(Slide)
 3. Unicode for Chess Pieces (Slide)
+4. Create a ppt for publishing Github repo pages(Slides)
