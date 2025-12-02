@@ -37,4 +37,4 @@ This project contains a set of simple HTML files that **display  calendars for e
 ## Notes
 1. Why do we need UTF-8 ? (Slide)
    -
-2. 
+2. Create a ppt on git for 1st timers(Slide)
