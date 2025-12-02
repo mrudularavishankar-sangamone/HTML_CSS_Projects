@@ -38,3 +38,4 @@ This project contains a set of simple HTML files that **display  calendars for e
 1. Why do we need UTF-8 ? (Slide)
    -
 2. Create a ppt on git for 1st timers(Slide)
+3. Unicode for Chess Pieces (Slide)
