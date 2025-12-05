@@ -1,0 +1,21 @@
+<!Doctype html>
+<html> 
+  <head>
+    <meta charset="UTF-8" />
+    <title>EMI Calculator</title>
+  </head>
+
+  <body>
+    <h1> EMI Calculator </h1>
+    <form>
+      <label for="principal">Principal Amount (₹) </label>
+      <input type="range" id="principal" min="100000" max="5000000" value = "2000000" step="1000000" /> <br /><br />
+      <label for="rateOfInterest">Rate of Interest </label>
+      <input type="range" id="rateOfInterest" min="10" max="17" value = "12.5" step="1" /> <br /><br />
+      <label>Duration </label>
+      <button type="button">12 Months</button>
+      <button type="button">24 Months</button>
+      <button type="button">Custom</button>
+    </form>
+  </body>
+</html>
